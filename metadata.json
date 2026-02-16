@@ -1,0 +1,5 @@
+{
+  "name": "Durable Execution Engine Simulator",
+  "description": "An interactive visualization and simulation of a Durable Execution Engine, demonstrating persistent workflows, sequence tracking, and crash recovery logic.",
+  "requestFramePermissions": []
+}
